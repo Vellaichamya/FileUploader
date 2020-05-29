@@ -1,0 +1,616 @@
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\ApplicationInsights.config
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\csc.exe
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\WebApplication6.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\WebApplication6.pdb
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\EntityFramework.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Owin.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Http.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\WebGrease.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Http.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\EntityFramework.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\pruthvi.davineni\Downloads\webap\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+D:\C drive downloads\webap\WebApplication6\bin\ApplicationInsights.config
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\csc.exe
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\vbc.exe
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\VBCSCompiler.exe
+D:\C drive downloads\webap\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+D:\C drive downloads\webap\WebApplication6\bin\WebApplication6.dll.config
+D:\C drive downloads\webap\WebApplication6\bin\WebApplication6.dll
+D:\C drive downloads\webap\WebApplication6\bin\WebApplication6.pdb
+D:\C drive downloads\webap\WebApplication6\bin\Antlr3.Runtime.dll
+D:\C drive downloads\webap\WebApplication6\bin\EntityFramework.dll
+D:\C drive downloads\webap\WebApplication6\bin\EntityFramework.SqlServer.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.Web.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+D:\C drive downloads\webap\WebApplication6\bin\Newtonsoft.Json.dll
+D:\C drive downloads\webap\WebApplication6\bin\Owin.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Net.Http.Formatting.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Helpers.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Http.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Http.WebHost.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Mvc.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Optimization.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Razor.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.dll
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.Razor.dll
+D:\C drive downloads\webap\WebApplication6\bin\WebGrease.dll
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.Web.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Net.Http.Formatting.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Http.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Http.WebHost.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Helpers.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Mvc.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Optimization.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.Razor.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+D:\C drive downloads\webap\WebApplication6\bin\System.Web.WebPages.Razor.xml
+D:\C drive downloads\webap\WebApplication6\bin\Antlr3.Runtime.pdb
+D:\C drive downloads\webap\WebApplication6\bin\Newtonsoft.Json.xml
+D:\C drive downloads\webap\WebApplication6\bin\EntityFramework.xml
+D:\C drive downloads\webap\WebApplication6\bin\EntityFramework.SqlServer.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C drive downloads\webap\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C drive downloads\webap\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+D:\C drive downloads\webap\WebApplication6\obj\Debug\WebApplication6.dll
+D:\C drive downloads\webap\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\ApplicationInsights.config
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\csc.exe
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\vbc.exe
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll.config
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.pdb
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Owin.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebGrease.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Data\5.7R4\Modified\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\ApplicationInsights.config
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\csc.exe
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\vbc.exe
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll.config
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.pdb
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Owin.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\WebGrease.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Data\5.7R4\Backup\FileUploaderToFolder-master\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\ApplicationInsights.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\csc.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\vbc.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\WebApplication6.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\WebGrease.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Helpers.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Mvc.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Optimization.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.Razor.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\ApplicationInsights.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\csc.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\vbc.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.dll.config
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Owin.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Helpers.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Mvc.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Optimization.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Razor.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebGrease.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Helpers.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Mvc.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Optimization.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Razor.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Data\FileUpload_Modified\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\ApplicationInsights.config
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\csc.exe
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\vbc.exe
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.dll.config
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebApplication6.pdb
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Google.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Owin.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Net.Http.Formatting.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Helpers.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.WebHost.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Mvc.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Optimization.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Razor.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\WebGrease.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Net.Http.Formatting.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Http.WebHost.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Helpers.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Mvc.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Optimization.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.Razor.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Google.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Repo\FileUploader\FileUploaderToFolder-master - Merge From UI\WebApplication6\obj\Debug\WebApplication6.pdb

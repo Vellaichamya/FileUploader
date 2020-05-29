@@ -1,0 +1,25 @@
+﻿@using WebApplication6.Controllers;
+@{
+    ViewBag.Title = "Download Files";
+}
+
+<div ng-controller="myCtrl">
+@{
+    var Files = (ViewBag.Files as List<document>);
+
+    if (Files != null && Files.Any())
+    {
+        foreach (var file in Files)
+        {
+            <br />
+            @Html.ActionLink(file.fileName, "DownloadFile", new { fileName = file.fileName, documentId = file.qdocumentid })
+            <br />
+        }
+    }
+    else
+    {
+        <label>No File(s) to Download</label>
+    }
+}
+
+</div>
