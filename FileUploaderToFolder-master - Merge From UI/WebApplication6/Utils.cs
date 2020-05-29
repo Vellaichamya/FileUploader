@@ -24,6 +24,7 @@ namespace Shared
             string logFilename = @"C:\Data\FileUpload_Modified\Log.txt";
             if (enableLog)
             {
+                System.IO.Directory.CreateDirectory(Path.GetDirectoryName(logFilename));
                 if (!System.IO.File.Exists(logFilename))
                 {
                     using (System.IO.File.Create(logFilename))

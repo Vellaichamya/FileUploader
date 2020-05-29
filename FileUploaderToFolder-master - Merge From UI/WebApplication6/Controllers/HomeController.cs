@@ -18,6 +18,7 @@ namespace WebApplication6.Controllers
         bool enableLog = false;
         public HomeController()
         {
+            System.IO.Directory.CreateDirectory(Path.GetDirectoryName(logFilename));
             if (!System.IO.File.Exists(informationLogFilename))
             {
                 using (System.IO.File.Create(informationLogFilename))
@@ -29,6 +30,7 @@ namespace WebApplication6.Controllers
 
             if (enableLog)
             {
+                System.IO.Directory.CreateDirectory(Path.GetDirectoryName(informationLogFilename));
                 if (!System.IO.File.Exists(logFilename))
                 {
                     using (System.IO.File.Create(logFilename))
